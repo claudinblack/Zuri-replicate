@@ -625,7 +625,7 @@ footer {
 
 @media screen and (height: 844px) {
   .third-section {
-    height: 60vh;
+    height: 80vh;
   }
 }
 
@@ -634,11 +634,11 @@ footer {
     padding: 0.3rem --btn-pd-left-right;
   }
   .second-section {
-    height: 105vh;
+    height: 100vh;
     padding-bottom: 3rem;
   }
   .third-section {
-    height: 105vh;
+    height: 70vh;
   }
   .skill,
   .work {
@@ -649,7 +649,7 @@ footer {
 
 @media screen and (max-width: 370px) {
   .third-section {
-    height: 99vh;
+    height: 70vh;
   }
   .skill,
   .work {
@@ -706,7 +706,7 @@ footer {
     width: 17%;
   }
   .third-section {
-    height: 50vh;
+    height: 80vh;
   }
   .skill,
   .work {
@@ -752,7 +752,7 @@ footer {
     height: 100px;
   }
   .third-section {
-    height: 50vh;
+    height: 80vh;
   }
   .skill,
   .work {
@@ -780,7 +780,7 @@ footer {
     height: 7vh;
   }
   .third-section {
-    height: 60vh; 
+    height: 70vh; 
   }
 }
 
