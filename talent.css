@@ -623,12 +623,6 @@ footer {
   }
 }
 
-@media screen and (height: 844px) {
-  .third-section {
-    height: 80vh;
-  }
-}
-
 @media screen and (width: 375px) {
   .main-nav-right button {
     padding: 0.3rem --btn-pd-left-right;
@@ -783,6 +777,12 @@ footer {
     height: 70vh; 
   }
 }
+@media screen and (max-width: 320px) {
+  .third-section {
+    height: 50vh;
+  }
+}
+
 
 @media screen and (width: 1024px) {
   .third-section {
